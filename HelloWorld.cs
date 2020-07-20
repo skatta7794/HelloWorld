@@ -7,7 +7,7 @@ class HelloWorld
 	
 	void Show()
 	{
-		
+		Console.WriteLine();
 	}
 	
 }
